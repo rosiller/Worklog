@@ -87,7 +87,7 @@ And a sample screenshot of the processed hours:
 
 ![Sample Processed Hours Output](3-Images/processed_hours_sample.png)
 
-A sample of the visualization of an by this tool:
+A sample of the visualization:
 
 ![Sample Week visualization Output](3-Images/week_visualization_sample.png)
 

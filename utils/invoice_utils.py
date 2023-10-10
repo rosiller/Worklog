@@ -338,7 +338,6 @@ def generate_and_save_pdf(df,month,year,total_hours,company_data={},employee_dat
         cell_filled = i%2
         
         #Get length of the notes column string to get the height of the row
-        # print(type(df['Notes'].iat[i])==float)
         if not (type(df['Notes'].iat[i])==float):
             row_height = 10 if len(df['Notes'].iat[i])>70 else 5
         else:
