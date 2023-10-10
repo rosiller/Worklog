@@ -1,0 +1,62 @@
+Datum,Schichtbeginn,Schichtende,Stunden,Pause,Notizen
+"Do., Juni 30",10:41,12:40,1std 59m,0m,Sample note 1
+"Mi., Juni 29",21:42,23:33,1std 51m,0m,Sample note 2
+"Mi., Juni 29",20:08,20:21,13m,0m,Sample note 3
+"Mi., Juni 29",19:33,19:57,24m,0m,Sample note 4
+"Mi., Juni 29",17:32,18:59,1std 27m,0m,Sample note 5
+"Mi., Juni 29",15:25,15:57,32m,0m,Sample note 6
+"Mi., Juni 29",11:34,13:37,2std 3m,0m,Sample note 7
+"Di., Juni 28",16:58,18:00,1std 2m,0m,Sample note 8
+"Di., Juni 28",16:06,16:24,18m,0m,Sample note 9
+"Di., Juni 28",11:25,11:51,26m,0m,Sample note 10
+"Di., Juni 28",0:02,0:30,28m,0m,Sample note 11
+"Mo., Juni 27",16:10,17:16,1std 6m,0m,Sample note 12
+"Mo., Juni 27",15:44,15:59,15m,0m,Sample note 13
+"Mo., Juni 27",14:32,15:04,32m,0m,Sample note 14
+"Mo., Juni 27",11:05,13:09,2std 4m,0m,Sample note 15
+"Do., Juni 23",18:14,18:29,15m,0m,Sample note 16
+"Do., Juni 23",15:46,17:28,1std 42m,0m,Sample note 17
+"Do., Juni 23",14:34,15:43,1std 9m,0m,Sample note 18
+"Do., Juni 23",11:39,13:37,1std 58m,0m,Sample note 19
+"Mi., Juni 22",20:05,20:15,10m,0m,Sample note 20
+"Mi., Juni 22",16:12,19:05,2std 53m,0m,Sample note 21
+"Mi., Juni 22",11:45,13:27,1std 42m,0m,Sample note 22
+"Di., Juni 21",21:51,23:35,1std 44m,0m,Sample note 23
+"Di., Juni 21",19:36,20:43,1std 7m,0m,Sample note 24
+"Di., Juni 21",16:52,18:16,1std 24m,0m,Sample note 25
+"Di., Juni 21",15:39,16:40,1std 1m,0m,Sample note 26
+"Di., Juni 21",11:37,13:16,1std 39m,0m,Sample note 27
+"Mo., Juni 20",22:18,0:20,2std 2m,0m,Sample note 28
+"Mo., Juni 20",21:45,21:59,14m,0m,Sample note 29
+"Mo., Juni 20",20:04,20:25,21m,0m,Sample note 30
+"Mo., Juni 20",18:53,19:58,1std 5m,0m,Sample note 31
+"Mo., Juni 20",15:33,18:50,3std 17m,0m,Sample note 32
+"Mo., Juni 20",14:15,15:25,1std 10m,0m,Sample note 33
+"Mo., Juni 20",11:45,13:05,1std 20m,0m,Sample note 34
+"Fr., Juni 17",11:00,12:37,1std 37m,0m,Sample note 35
+"Fr., Juni 17",10:06,10:29,23m,0m,Sample note 36
+"Do., Juni 16",23:23,23:51,28m,0m,Sample note 37
+"Do., Juni 16",18:15,19:55,1std 40m,0m,Sample note 38
+"Do., Juni 16",17:27,18:06,39m,0m,Sample note 39
+"Do., Juni 16",14:39,15:11,32m,0m,Sample note 40
+"Do., Juni 16",9:54,13:00,3std 6m,0m,Sample note 41
+"Mi., Juni 15",22:14,0:04,1std 50m,0m,Sample note 42
+"Mi., Juni 15",18:12,19:42,1std 30m,0m,Sample note 43
+"Di., Juni 14",19:19,19:29,10m,0m,Sample note 44
+"Di., Juni 14",16:58,17:36,38m,0m,Sample note 45
+"Di., Juni 14",14:28,15:27,59m,0m,Sample note 46
+"Di., Juni 14",13:11,13:46,35m,0m,Sample note 47
+"Di., Juni 14",12:09,12:59,50m,0m,Sample note 48
+"Di., Juni 14",10:33,11:22,49m,0m,Sample note 49
+"Mo., Juni 13",15:37,17:59,2std 22m,0m,Sample note 50
+"Fr., Juni 10",16:40,18:44,2std 4m,0m,Sample note 51
+"Fr., Juni 10",15:51,16:30,39m,0m,Sample note 52
+"Do., Juni 9",22:03,22:23,20m,0m,Sample note 53
+"Do., Juni 9",16:28,18:38,2std 10m,0m,Sample note 54
+"Mi., Juni 8",17:02,17:23,21m,0m,Sample note 55
+"Mi., Juni 8",14:46,15:13,27m,0m,Sample note 56
+"Mi., Juni 8",13:28,13:42,14m,0m,Sample note 57
+"Di., Juni 7",8:00,8:59,59m,0m,Sample note 58
+"Do., Juni 2",16:24,17:09,45m,0m,Sample note 59
+"Do., Juni 2",16:04,16:11,7m,0m,Sample note 60
+,,Gesamt:,67std 7m,0m,
